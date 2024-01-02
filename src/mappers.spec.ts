@@ -1,7 +1,3 @@
-
-// For the first function, I wrote tests following the "none, one, many" principle to illustrate the concept. For the 
-// remaining functions, I wrote one test each, I believe that should be enough for now.
-
 import test from 'node:test';
 import assert from 'node:assert';
 import type { Match } from './app.js';
